@@ -2,7 +2,6 @@ import remodel1 from './assets/remodel1.webp'
 import remodel3 from './assets/remodel3.webp'
 import remodel4 from './assets/remodel4.webp'
 import remodel5 from './assets/remodel5.webp'
-import Chatbot from './components/Chatbot'
 
 function App() {
   return (
@@ -307,7 +306,6 @@ function App() {
           <p className="text-gray-500 text-sm">© 2026 Remodela. Todos los derechos reservados.</p>
         </div>
       </footer>
-      <Chatbot />
     </div>
   )
 }
